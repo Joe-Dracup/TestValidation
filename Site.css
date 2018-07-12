@@ -29,3 +29,7 @@
 .form-group .form-control{
     border-radius: 0px;
 }
+
+.validation{
+    color: red;
+}
